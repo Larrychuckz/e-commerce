@@ -21,7 +21,7 @@ const Footer = () => {
         </ul>
         <div className="footer-social-icons">
           <div className="footer-icons-cotainer">
-            <img src={instagram_icon} alt="" />
+            <li><img src={instagram_icon} alt="" /></li>
           </div>
           <div className="footer-icons-cotainer">
             <img src={pinester_icon} alt="" />

@@ -18,7 +18,7 @@
     color: #090909;
     font-size: 26px;
     font-weight: 600;
-    padding-top: 100px;
+    
 }
 
 .hero-left p{
@@ -50,6 +50,7 @@
     color: white;
     font-size: 22px;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .hero-right{
@@ -63,4 +64,6 @@
     align-items: center;
     gap: 20px;
     display: flex;
+    height: 700px;
+    width: 700px;
 }

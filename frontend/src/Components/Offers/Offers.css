@@ -5,6 +5,7 @@
     margin: auto;
     padding: 0px 140px;
     margin-bottom: 150px;
+    margin-top: 100px;
     background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
 }
 .offers-left{
@@ -19,6 +20,7 @@
     color: #171717;
     font-size: 80px;
     font-weight: 600;
+    margin-top: 10px;
 }
 .offers-left p{
     color: #171717;
@@ -43,4 +45,11 @@
     align-items: center;
     justify-content: flex-end;
     padding-top: 50px;
+}
+.offers-right img{
+    align-items: center;
+    gap: 20px;
+    display: flex;
+    height: 400px;
+    width: 400px;
 }
